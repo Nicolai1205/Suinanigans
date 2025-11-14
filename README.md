@@ -13,12 +13,12 @@ Now the base question is. Can wallet from the team or investors be labelled with
 -> 
 
 First we look up whether any addresses have been publically mentioned. In this case, that's 0. 
-Then we can run against various sources to see if others have succeeded in labelling wallets. Think Nansen, Dune or Arkham. Funnily, the answer is once again 0.
+Then we can run against various sources to see if others have succeeded in labelling wallets. Think Nansen, Dune or Arkham. Funny, the answer is once again 0.
 What can we do next? Well we can try to approximate various holdings by looking at tokenomics, unlock schedules and past information on IDOs, launchpools etc.
 We can also, be extremely tedious and time consuming and go back to the origin of the token and track every damn transaction from the initial wallets to see, which wallets had what allocation, which smart contracts are set up in what way etc.
-Also?? Staked number going down when price go up? Left curve take
+Also?? Staked number going down when price go up? Must be crime. Ridiculous 
 
-NOTE!! The above are preliminary thoughts and a pessimistic take based on the fact that NO ONE has found anything till now. This means there is nothing, or that no one cares enough cause price go up (When allegations happened). 
+NOTE!! The above are preliminary thoughts, rants and a pessimistic take based on the fact that NO ONE has found anything till now. This means there is nothing, or that no one cares enough cause price go up (When allegations happened). 
 
 ### 2. If yes, verify the numbers provided by Light. Are his estimations correct, and did the investors sell so many tokens during this timeframe? Or is he wrong? If he is wrong, share your estimations.
 
