@@ -11,4 +11,4 @@ Just a quick look at whether its all circumstancial evidence or not.
 ### 3. How much SUI have the insiders (investors) sold after the Light’s post? Is there any change in dynamics? Please provide the chart showing the sales over time. For this task, you can assume that any transfer to exchange means selling.
 
 
-###4. How many tokens have the team and the foundation sold over time? Provide the same chart.
+### 4. How many tokens have the team and the foundation sold over time? Provide the same chart.
