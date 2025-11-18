@@ -60,3 +60,51 @@ Also no. To chart something meaningfully we need to know which wallets to track.
 ## Final answer  
 Based on everything above—public data, third-party tools, tokenomics, article claims—the answer remains: **no**.  
 There is no reliable way to identify team or investor wallets, no way to verify the claims made, and no basis for building meaningful charts.
+
+
+
+## 5. Final comments on feasibility, process and tests
+
+**Short answer: no — not for historical analysis.**
+
+## What We Did
+We built a transaction-flow tracker to:
+- Identify the first 1000 genesis wallets (May 2023)
+- Track their transactions through November 2024
+- Follow multi-hop flows between wallets
+- Detect exchange-like behavior
+- Map paths from genesis wallets to exchanges
+
+All queries functioned correctly against the [Sui GraphQL Beta endpoint](https://docs.sui.io/guides/developer/advanced/graphql-rpc).
+
+## Why It Fails
+The public GraphQL endpoint  
+`https://sui-mainnet.mystenlabs.com/graphql`  
+retains only **~3 days of transaction history** (verified Nov 18, 2025).
+
+Observed:
+- Works for recent data (last ~72 hours)
+- No data for checkpoints 0+
+- No genesis data (May 2023)
+- No data from 2024
+- Only returns mid-Nov 2025 onward
+
+## Implications
+- Cannot analyze genesis activity  
+- Cannot investigate autumn 2024 events  
+- Cannot verify the $400M allegation timeline  
+- Cannot reconstruct historical money flows  
+
+## What’s Required Instead
+- Running a full Sui archival node  
+- Using a commercial data provider  
+- Partnering with an entity that stores full Sui history  
+
+## Why This Matters
+The public GraphQL service does not provide historical data.  
+The [official documentation](https://docs.sui.io/guides/developer/advanced/graphql-rpc) also does not mention these retention limits, making it easy to assume full-chain access when it is not available.
+
+## Conclusion for Question 5
+Public GraphQL access cannot support historical transaction tracing.  
+**Answer: no.**
+
