@@ -37,23 +37,45 @@ It is not possible to label the SUI team or investor wallets with high confidenc
 ---
 
 ## 2. Can we verify Light’s numbers or claims about investor selling?  
-We can verify the fact that a wallet (assumed to be the correct one which sent about 400M tokens) did send many tokens out and that the wallet is connected
+We can verify the fact that a wallet (assumed to be the correct one which sent about 400M tokens) did send many tokens out.
 
----
+The wallet in question received first large transfer from here:
+https://suiscan.xyz/mainnet/tx/GCNXkR4mSbR1ikSyu3pyTauxC8LsuPznJ5WxHtSMQR8r
+
+The address in the transaction above got funds here:
+https://suiscan.xyz/mainnet/tx/FdvGyjbAUUxwqHi1TzyoNWvSWocBSD6BhewNzi9Ssiq1
+
+Leading us to wallet: https://suiscan.xyz/mainnet/account/0x341fa71e4e58d63668034125c3152f935b00b0bb5c68069045d8c646d017fae1/activity
+
+Which is one of the first wallets funded from the genesys as per the following query I did.
+https://dune.com/queries/6225434
+
+Ultimately, the investor, team or early participant (infrastructure partner) as quoted by the SUI foundation, did in fact obscure funds by sending "smaller" transfers to intermediary addresses, that 
+then transferred funds to various CEXs. Example: 
+https://suiscan.xyz/mainnet/account/0xbe9e8a62a74d1246924e10c46b3de0a22ec20998f66d1562c615d3ee846e922e/activity
 
 ## 3. Can we estimate how much insiders sold after Light’s post?  
+With time constraints in mind (and lited dune credits), here is the relevant table:
+https://dune.com/queries/6225655
 
+Showscases wallets that have transferred at least 5 million tokens to exchanges.
+This includes larger whales that could have come in later, but ultimately showcases how over certain timeframes, there was an increase in tokens being sent to exchanges.
+
+Most tokens by far were
 ---
 
 ## 4. Can we chart team or foundation sales over time?  
+again due to time limitatoins and running out of Dune credits here is my answer:
 
+It is possible to make assumptions and guesstimates, but as many assets were often split into several wallets (likely to obscure ownership) it is tricky to fully determine who investors are and what team allocations look like.
+Regardless, with the dune queries shared at the end, it would be possible to build a case for how many tokens with meaningful relations, have been sold over time.
 ---
 
 ## Final answer  
 Based on everything above—public data, third-party tools, tokenomics, article claims—the answer remains: **no**.  
-There is no reliable way to identify team or investor wallets, no way to verify the claims made, and no basis for building meaningful charts. (AT THE VERY LEAST NOT IN A SHORT AMOUNT OF TIME)
+There is no reliable way to identify team or investor wallets 100%. (AT THE VERY LEAST NOT IN A SHORT AMOUNT OF TIME)
 
-
+It is however possible to make assumptions bases on initial chain data, but a deeper analysis requires more resources and time.
 
 ---
 ---
@@ -87,6 +109,8 @@ The first 100 addresses (senders) from that date onwards can be found here: http
 Transaction history (with row limit) for first 100 addresses (senders): https://dune.com/queries/6225198
 First wallets with 1M tokens from 0x00000...: https://dune.com/queries/6225434
 Sender history wallets to cex min 5M tokens: https://dune.com/queries/6225655
-Balance+5M ever, static june 1st,October 14th, November 15th:
+Balance+5M ever, static june 1st,October 14th, November 15th: https://dune.com/queries/6225525 <- This should still get double checked on the logic.
 Verification of numbers (+5m balances sending to exchanges) http://dune.com/queries/6226022
+Wallets that sent min 5M to CEXs and were directly funded by genesys wallets: https://dune.com/queries/6226329
+
 
