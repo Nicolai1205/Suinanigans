@@ -27,10 +27,10 @@ In theory you could trace every transaction back to genesis and attempt to label
 Arguments like “staking dropped when price rose, so insiders must have sold” are weak. Staking changes for many reasons, and this alone is not evidence of insider selling.
 
 ### What about the article and the wallet the article mentions?  
-An article from Finbold reports that an account (0x be90… aa8) is allegedly an “infrastructure partner” of the Sui Foundation and that it has executed a selling spree of about USD 400 million in SUI, and may dump another USD 20 million. :contentReference[oaicite:2]{index=2}  
+An article from Finbold reports that an account (0x be90… aa8) is allegedly an “infrastructure partner” of the Sui Foundation and that it has executed a selling spree of about USD 400 million in SUI, and may dump another USD 20 million.
 The wallet in question is:  
 https://suivision.xyz/account/0xbe90dbe25c747f23e7b93f8948f240a90aa106597b7dab0b33e852b0b1950aa8?tab=Activity  
-That article claims the address received tokens from two origin addresses (each with hundreds of millions in SUI, allegedly under vesting contracts) and then initiated large outflows. :contentReference[oaicite:3]{index=3}  
+That article claims the address received tokens from two origin addresses (each with hundreds of millions in SUI, allegedly under vesting contracts) and then initiated large outflows.
 **But**: No public confirmation of this wallet belonging to the team or investors, no proof of insider trading, and no reliable attribution. This keeps the situation firmly in the domain of circumstantial evidence.
 
 ### Why this matters  
@@ -60,4 +60,3 @@ Also no. To chart something meaningfully we need to know which wallets to track.
 ## Final answer  
 Based on everything above—public data, third-party tools, tokenomics, article claims—the answer remains: **no**.  
 There is no reliable way to identify team or investor wallets, no way to verify the claims made, and no basis for building meaningful charts.
-::contentReference[oaicite:5]{index=5}
