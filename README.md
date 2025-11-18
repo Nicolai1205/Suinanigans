@@ -59,7 +59,7 @@ Also no. To chart something meaningfully we need to know which wallets to track.
 
 ## Final answer  
 Based on everything above—public data, third-party tools, tokenomics, article claims—the answer remains: **no**.  
-There is no reliable way to identify team or investor wallets, no way to verify the claims made, and no basis for building meaningful charts.
+There is no reliable way to identify team or investor wallets, no way to verify the claims made, and no basis for building meaningful charts. (AT THE VERY LEAST NOT IN A SHORT AMOUNT OF TIME)
 
 
 
@@ -85,6 +85,12 @@ Belongs to a small X account from back in 2023. https://x.com/search?q=from%3Aoz
 confirmed to be owned by same person looking at suiscan: https://suiscan.xyz/mainnet/account/@ojigoyeng/activity
 
 There is also an address mentioed but it turns out to HTX (huobi). https://suiscan.xyz/mainnet/account/0x1f7b27844f2c4a0262b2c481f7ab956d10ace524c5a7b06c3742cfb8701db714.
+
+--
+
+Now what we really care about is if we ourselves can query Dune data ourselves.
+The first available date point is 2023-04-12 with the 0x000000.... address.
+The first 100 addresses (senders) from that date onwards can be found here: https://dune.com/queries/6224491
 
 
 
