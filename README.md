@@ -43,17 +43,14 @@ It is not possible to label the SUI team or investor wallets with high confidenc
 ---
 
 ## 2. Can we verify Light’s numbers or claims about investor selling?  
-No. Without knowing which wallets belong to the team or investors, we cannot validate any of the numbers or alleged sales.
 
 ---
 
 ## 3. Can we estimate how much insiders sold after Light’s post?  
-No. Without wallet attribution any estimate would be guesswork at best.
 
 ---
 
 ## 4. Can we chart team or foundation sales over time?  
-Also no. To chart something meaningfully we need to know which wallets to track. We don’t have that.
 
 ---
 
