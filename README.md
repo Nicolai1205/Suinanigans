@@ -105,12 +105,19 @@ There is also an address mentioed but it turns out to HTX (huobi). https://suisc
 Now what we really care about is if we ourselves can query Dune data ourselves.
 The first available date point is 2023-04-12 with the 0x000000.... address.
 The first 100 addresses (senders) from that date onwards can be found here: https://dune.com/queries/6224491
+
 1 month historica balances for first 100 addresses (senders): https://dune.com/queries/6224337
+
 Transaction history (with row limit) for first 100 addresses (senders): https://dune.com/queries/6225198
+
 First wallets with 1M tokens from 0x00000...: https://dune.com/queries/6225434
+
 Sender history wallets to cex min 5M tokens: https://dune.com/queries/6225655
+
 Balance+5M ever, static june 1st,October 14th, November 15th: https://dune.com/queries/6225525 <- This should still get double checked on the logic.
+
 Verification of numbers (+5m balances sending to exchanges) http://dune.com/queries/6226022
+
 Wallets that sent min 5M to CEXs and were directly funded by genesys wallets: https://dune.com/queries/6226329
 
 
