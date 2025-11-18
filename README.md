@@ -11,17 +11,11 @@ The team has never released official team or investor addresses. We start from e
 **No third-party confirmation**  
 Platforms that specialize in address labelling (Nansen, Dune dashboards, Arkham, etc.) also have no verified team or investor SUI wallets. If any existed, these platforms would likely show them—they don’t.
 
-**Sui’s object model makes tracing messy**  
-Sui is object-based rather than account-based, which makes it much harder to follow simple “wallet received X at time Y” patterns.  
-For example:  
-This wallet often cited has **no initial token receipt** on record. Its first visible transaction is staking.  
-https://suivision.xyz/txblock/FF41d1kjiB55MAMX6LujqMFhpznpCAiGpYQ5bwmsUXpK?tab=Overview
-
 **Tokenomics don’t map cleanly to wallets**  
 You can review tokenomics, unlock schedules, launchpools, IDOs, etc., but none of these map to specific on-chain addresses. Current holder distributions also do not obviously align with the published tokenomics—it’s possible the team/treasury funds are intentionally spread across many smaller wallets.
 
 **Deep tracing is possible but not conclusive**  
-In theory you could trace every transaction back to genesis and attempt to label wallets—but in practice this is extremely time-consuming, and still does not yield high-confidence attributions on Sui.
+In theory you could trace every transaction back to genesis and attempt to label wallets—but in practice this is extremely time-consuming, and still does not yield high-confidence attributions on Sui. Attempted further down.
 
 **Behaviour ≠ proof**  
 Arguments like “staking dropped when price rose, so insiders must have sold” are weak. Staking changes for many reasons, and this alone is not evidence of insider selling.
