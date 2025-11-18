@@ -32,7 +32,7 @@ The allegations are built on circumstantial evidence. Light did not provide a li
 
 ### Conclusion for Question 1  
 It is not possible to label the SUI team or investor wallets with high confidence based on any available information.  
-**Answer is no.**
+**Answer is no.** BUT, it is possible to see wallets taht were funded in the very beginning and have somve naive assumption that is is team or investor related (without knowing who).
 
 ---
 
