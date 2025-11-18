@@ -84,4 +84,8 @@ Example of wallet being mentioned as an insider:0xcb2812891bc31768768bf56077b130
 Belongs to a small X account from back in 2023. https://x.com/search?q=from%3Aozigoyeng96%200xcb2812891bc31768768bf56077b13039f0f17088cf9ad212332ca6ee2a744730&src=typed_query
 confirmed to be owned by same person looking at suiscan: https://suiscan.xyz/mainnet/account/@ojigoyeng/activity
 
+There is also an address mentioed but it turns out to HTX (huobi). https://suiscan.xyz/mainnet/account/0x1f7b27844f2c4a0262b2c481f7ab956d10ace524c5a7b06c3742cfb8701db714.
+
+
+
 
