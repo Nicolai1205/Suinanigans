@@ -92,6 +92,6 @@ Now what we really care about is if we ourselves can query Dune data ourselves.
 The first available date point is 2023-04-12 with the 0x000000.... address.
 The first 100 addresses (senders) from that date onwards can be found here: https://dune.com/queries/6224491
 
-
+There is a limitation to researching in SUI as you can send tokens to an address and that address won't have any traces until it signs a transaction itself. E.g., staking or sending tokens to another address.
 
 
