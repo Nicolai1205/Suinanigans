@@ -63,7 +63,25 @@ There is no reliable way to identify team or investor wallets, no way to verify 
 
 
 
+---
+---
+
 ## 5. Final comments on feasibility, process and tests
 
+### 5.1 First attempt ever at using Graphql
+Attempted programmatic transaction tracing using [Sui's GraphQL Beta endpoint](https://docs.sui.io/guides/developer/advanced/graphql-rpc).
+While checkpoint metadata exists from genesis (April 2023), transaction details (sender addresses, balance changes) are pruned from historical data. 
+Only recent transactions (~2-4 weeks) retain full details.Run the test yourself:python test_sui_graphql.py
+Result: Cannot trace genesis wallets or track historical money flows (May 2023 - Nov 2024) needed to verify insider selling allegations.
+
+---
+### 5.2 Insider wallets on Dune?
+
+Found 2 examples of peolpe attemtping to find insider wallets on SUI. Perhaps for this very job application.
+A quick search on X made it fairly easy to debunk some of these.
+
+Example of wallet being mentioned as an insider:0xcb2812891bc31768768bf56077b13039f0f17088cf9ad212332ca6ee2a744730
+Belongs to a small X account from back in 2023. https://x.com/search?q=from%3Aozigoyeng96%200xcb2812891bc31768768bf56077b13039f0f17088cf9ad212332ca6ee2a744730&src=typed_query
+confirmed to be owned by same person looking at suiscan: https://suiscan.xyz/mainnet/account/@ojigoyeng/activity
 
 
