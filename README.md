@@ -2,9 +2,7 @@
 A quick look at whether the allegations are anything more than circumstantial.
 
 ## 1. Can SUI team or investor wallets be labeled with high confidence?  
-**Short answer: no.**
-
-### Why the answer is no
+**Short answer: no.** BUT..
 
 **No public disclosures**  
 The team has never released official team or investor addresses. We start from exactly zero known wallets.
