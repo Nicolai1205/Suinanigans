@@ -151,5 +151,5 @@ https://dune.com/queries/6226022
 Wallets that sent at least 5M to CEXs and were funded by genesis wallets:  
 https://dune.com/queries/6226329
 
-Track genesys wallets (early wallets) that transferred to other wallets before sending to exchanges (regardless of amount sent). Incldue 1 and 2 hops before exchange is hit.
+Track genesys wallets (early wallets) that transferred to other wallets before sending to exchanges (regardless of amount sent). Incldue 1 and 2 hops before exchange is hit:
 https://dune.com/queries/6228762
