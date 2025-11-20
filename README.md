@@ -158,9 +158,9 @@ https://dune.com/queries/6228762
 ---
 
 **If I didn't run out of credits I would do the following**:
-Check 3-4-5 hops from genesys wallets.
-Track genesys wallets that had sent the most
-Visualize funds sends to exchanges over time from top 20 or 30 addresses (showcase how many hops it took to get there).
-Set up alerts for said addresses.
-Check if there are connections between any of the wallets that were "hopped" between.
-See which wallets are receiving funds from XYZ wallet at unlock times.
+1. Check 3-4-5 hops from genesys wallets.
+2. Track genesys wallets that had sent the most
+3. Visualize funds sends to exchanges over time from top 20 or 30 addresses (showcase how many hops it took to get there).
+4. Set up alerts for said addresses.
+5. Check if there are connections between any of the wallets that were "hopped" between.
+6. See which wallets are receiving funds from XYZ wallet at unlock times.
