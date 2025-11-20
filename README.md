@@ -154,3 +154,13 @@ https://dune.com/queries/6226329
 Track genesys wallets (early wallets) that transferred to other wallets before sending to exchanges (regardless of amount sent). Incldue 1 and 2 hops before exchange is hit:
 
 https://dune.com/queries/6228762
+
+---
+
+**If I didn't run out of credits I would do the following**:
+Check 3-4-5 hops from genesys wallets.
+Track genesys wallets that had sent the most
+Visualize funds sends to exchanges over time from top 20 or 30 addresses (showcase how many hops it took to get there).
+Set up alerts for said addresses.
+Check if there are connections between any of the wallets that were "hopped" between.
+See which wallets are receiving funds from XYZ wallet at unlock times.
