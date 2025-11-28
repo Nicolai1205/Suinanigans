@@ -1,5 +1,5 @@
 # Suinanigans  
-A quick look at whether the allegations are anything more than circumstantial. C
+A quick look at whether the allegations are anything more than circumstantial. Quick but limited work for Scimitar Capital
 
 ## 1. Can SUI team or investor wallets be labeled with high confidence?  
 **Short answer: no.** BUT..
